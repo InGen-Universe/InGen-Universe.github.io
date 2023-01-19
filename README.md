@@ -10,7 +10,7 @@
     <img src="https://github.com/InGen-Universe/InGen-Universe.github.io/actions/workflows/nextjs.yml/badge.svg" alt="deployment status" />
   </a>
   <a href="https://discord.gg/Up5VwQZNBw">
-    <img src="https://img.shields.io/discord/819003209636773928?label=Chat&logo=discord&logoColor=white" alt="discord server" />
+    <img src="https://img.shields.io/discord/819003209636773928?color=5865f2&label=Chat&logo=discord&logoColor=white" alt="discord server" />
   </a>
 </div>
 
