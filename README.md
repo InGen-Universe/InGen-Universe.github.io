@@ -1,4 +1,15 @@
-# InGen-Universe.github.io
+<a href="https://github.com/InGen-Universe/InGen-Universe.github.io">
+  <h1 align="center">InGen-Universe.github.io</h1>
+</a>
+<div align="center">
+  <a href="https://github.com/InGen-Universe/InGen-Universe.github.io/actions/workflows/nextjs.yml">
+    <img src="https://img.shields.io/github/actions/workflow/status/InGen-Universe/InGen-Universe.github.io/nextjs.yml?label=Build&logo=github" alt="build status">
+  </a>
+  <a href="https://ingen-universe.github.io">
+    <img src="https://github.com/InGen-Universe/InGen-Universe.github.io/actions/workflows/nextjs.yml/badge.svg" alt="deployment status" />
+  </a>
+</a>
+
 Official website of InGen Universe and BioSyn Universe
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
