@@ -4,10 +4,13 @@
   </a>
   <br />
   <a href="https://github.com/InGen-Universe/InGen-Universe.github.io/actions/workflows/nextjs.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/InGen-Universe/InGen-Universe.github.io/nextjs.yml?label=Build&logo=github" alt="build status">
+    <img src="https://img.shields.io/github/actions/workflow/status/InGen-Universe/InGen-Universe.github.io/nextjs.yml?label=Build&logo=github" alt="build status" />
   </a>
   <a href="https://ingen-universe.github.io">
     <img src="https://github.com/InGen-Universe/InGen-Universe.github.io/actions/workflows/nextjs.yml/badge.svg" alt="deployment status" />
+  </a>
+  <a href="https://discord.gg/Up5VwQZNBw">
+    <img src="https://img.shields.io/discord/819003209636773928?label=Chat&logo=discord&logoColor=white" alt="discord server" />
   </a>
 </div>
 
